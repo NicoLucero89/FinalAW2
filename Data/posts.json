@@ -1,0 +1,40 @@
+[
+  {
+    "id": 11,
+    "author": "johndoe",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 3
+  },
+  {
+    "id": 1,
+    "nombre": "Nico",
+    "apellido": "Ale",
+    "email": "nico.ale@gmail.com",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 1
+  },
+  {
+    "id": 22,
+    "author": "bobsmith",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit",
+    "likes": 6
+  },
+  {
+    "id": 33,
+    "author": "alicejohn",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 9
+  },
+  {
+    "id": 44,
+    "author": "johndoe",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "likes": 3
+  },
+  {
+    "author": "nico.ale@gmail.com",
+    "text": "test",
+    "likes": 0,
+    "id": 6
+  }
+]
